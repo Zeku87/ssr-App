@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/Zeku87/ssr-App#readme",
   "dependencies": {
+    "@zeit/next-css": "^0.2.0",
     "next": "^6.0.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
