@@ -1,3 +1,3 @@
 export default() => {
-    <p>Testing</p>
+    return <p>Testing</p>
 };
