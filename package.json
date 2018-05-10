@@ -1,0 +1,33 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "description": "Exercise about server side rendering with React",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeku87/ssr-App.git"
+  },
+  "keywords": [
+    "react",
+    "ssr",
+    "server",
+    "side",
+    "rendering"
+  ],
+  "author": "Ezequiel Gallardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeku87/ssr-App/issues"
+  },
+  "homepage": "https://github.com/Zeku87/ssr-App#readme",
+  "dependencies": {
+    "next": "^6.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
